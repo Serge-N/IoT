@@ -18,3 +18,5 @@ For each of these folder there is a folder for the target platform as follows :
 - PI/ARM
 
 In addition to a readme file explaining why we are doing what we doing and other considerations.
+
+The langauges of focus are C++, C#, JS, Python and Rust (if the need be).
