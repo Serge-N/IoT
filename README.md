@@ -21,4 +21,4 @@ In addition to a readme file explaining why we are doing what we doing and other
 
 The langauges of focus are C++, C#, JS, Python and Rust (if the need be).
 
-## Paused Unitl project A is complete.
+## Paused Until project A is complete.
